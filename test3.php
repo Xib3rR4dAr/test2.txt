@@ -1,1 +1,2 @@
-<?php echo 'hello'; ?>
+echo 'hello'; ?>
+<input type="file" name="file">
